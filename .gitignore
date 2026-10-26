@@ -28,6 +28,7 @@ yarn-error.log*
 node_modules/
 vendor/
 bower_components/
+package-lock.json
 
 # Playwright
 /test-results/
