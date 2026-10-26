@@ -28,3 +28,10 @@ yarn-error.log*
 node_modules/
 vendor/
 bower_components/
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
